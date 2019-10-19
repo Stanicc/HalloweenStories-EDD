@@ -1,0 +1,32 @@
+[
+  {
+    "question": "O que a bruxa usa para voar?",
+    "option1": "Vassoura",
+    "option2": "Garfo",
+    "option3": "Avião",
+    "option4": "Nada",
+    "ansower": "Vassoura",
+    "title": "Origem do dia das bruxas",
+    "text": "Esta festa reproduz as tradições dos povos de Gália e Grã Bretanha entre os anos 600 a.C e 800 d.C, sendo que hoje com adaptações feitas pelos Estados Unidos como as decorações e fantasias. Com maior relevância nos países anglo-saxônixos como Canadá, Reino Unido e Estados Unidos, tem base em celebrações dos antigos povos mas não possui registro assertivo da sua origem. Na origem pagã, está de acordo com a celebração do povo Celta. Com a invasão dos romanos nas ilhas britânicas, houve a mescla das culturas o que fez com que a origem celta fosse esquecida com o tempo. O povo celta fazia uma comemoração chamada “festa de Samhaim” que  acontecia entre os dias 5 e 7 de novembro durando uma semana e dava inicio ao novo ano celta. Diziam que os espíritos dos mortos voltavam nessa data para visitar os vivos e os lares, guiando seus familiares rumo ao outro mundo. Esta festa era uma das mais importantes para este povo, pois celebrava o que pra nós seria o “céu e o inferno”. Para os celtas o lugar dos mortos era um lugar de felicidade perfeita, onde não havia sofrimento."
+  },
+  {
+    "question": "O que as pessoas fazem no Halloween?",
+    "option1": "Saem para comer",
+    "option2": "Vão para a praia",
+    "option3": "Vestem fantasias",
+    "option4": "Nada",
+    "ansower": "Vestem fantasias",
+    "title": "Esqueletos e fantasmas do Halloween",
+    "text": "Esqueletos e fantasmas têm origem no antigo festival celta de Samhain, que também é berço do que hoje conhecemos como Halloween, ou Dia das Bruxas. O festival acontecia no dia 31 de outubro, data que marcava o final da época de colheita e o início do tenebroso inverno no hemisfério norte. Essencialmente, era um festival dos mortos. Os celtas acreditavam que, nesta noite, a fronteira entre o reino dos vivos e mortos tornava-se tênue, quase que inexistente – os mortos retornavam como fantasmas e caminhavam entre os vivos."
+  },
+  {
+    "question": "Gatos pretos são sinônimos de?",
+    "option1": "Fofura",
+    "option2": "Azar",
+    "option3": "Sorte",
+    "option4": "Nada",
+    "ansower": "Azar",
+    "title": "Gatos pretos",
+    "text": "A origem macabra está na Idade Média, quando a cor do animal era associada às trevas, e seus hábitos noturnos levavam à crença de que eles tinham pacto com o demônio. Essa fama também esteve relacionada com as bruxas, que segundo a crença medieval, se transformavam em gatos para realizar suas saídas durante a noite."
+  }
+]
