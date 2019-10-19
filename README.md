@@ -99,6 +99,6 @@ Após criar outra pergunta lembre-se de por uma vírgula entre ela
 
 ## Observações
 
-Fiz o aplicativo com base no meu aparelho (Moto g1), portanto a resolução recomendada é 720 x 1280 (Pode não suportar outras resoluçõs)
+Fiz o aplicativo com base no meu aparelho (Moto g1), portanto a resolução recomendada é 720 x 1280 (Pode não suportar outras resoluções)
 
 * Caso você utilize um emulador ou aparelho com a resolução diferente o aplicativo pode não sair do jeito esperado.
