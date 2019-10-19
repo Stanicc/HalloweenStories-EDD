@@ -25,7 +25,7 @@ O aplicativo é bem simples, o intuito dele é para ser um quiz onde cada pergun
 Faça uma cópia do código fonte do aplicativo
 
 ```
-git clone https://github.com/Stanicc/HalloweenStories-EDD
+git clone https://github.com/Stanicc/HalloweenStories-EDD.git
 ```
 
 Depois abra o android studio e crie um novo projeto com o código fonte do aplicativo
